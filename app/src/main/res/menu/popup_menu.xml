@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/call"
+        android:title="позвонить в регистратуру" />
+    <item
+        android:id="@+id/appoint_to_doctor"
+        android:title="записаться к врачу" />
+    <item
+        android:id="@+id/on_line_consult"
+        android:title="записаться на он-лайн консультацию" />
+
+</menu>
